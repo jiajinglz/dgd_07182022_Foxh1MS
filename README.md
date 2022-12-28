@@ -6,6 +6,7 @@ Zhou JJ, Pham PD, Han H, Wang W, Cho KWY. Engagement of Foxh1 in chromatin regul
 RNA-seq Analysis for differentially regulated genes:
 
 Exp 1: DMSO / TSA Xenopus tropicalis early gastrula ectoderm explant
+
 Exp 2: Ctl / Foxh1 MO Xenopus tropicalis early gastrula ectoderm explant
 
 
